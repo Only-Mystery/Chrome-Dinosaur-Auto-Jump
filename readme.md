@@ -1,4 +1,4 @@
-Little dinosaur automatic script | 小恐龙自动跳
+Dinosaur auto jump | 小恐龙自动跳
 -----------------------------------------
 
 [CN-zh]
